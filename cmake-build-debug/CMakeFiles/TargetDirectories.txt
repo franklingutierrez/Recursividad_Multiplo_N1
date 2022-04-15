@@ -1,0 +1,3 @@
+C:/Users/guiratec/Downloads/TAREA/Recursividad2/cmake-build-debug/CMakeFiles/Recursividad2.dir
+C:/Users/guiratec/Downloads/TAREA/Recursividad2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guiratec/Downloads/TAREA/Recursividad2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

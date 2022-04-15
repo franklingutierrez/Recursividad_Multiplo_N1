@@ -1,0 +1,11 @@
+# ninja log v5
+3	409	6716715348356011	CMakeFiles/Recursividad2.dir/main.cpp.obj	f674befabf520318
+387	547	6716717042427647	Recursividad2.exe	203ba2560ef136c2
+2	326	6717265036762196	build.ninja	ae3cd937576cb9b4
+1	386	6716717040847648	CMakeFiles/Recursividad2.dir/problema1.cpp.obj	3493509a3bce25a6
+3	611	6717269193165678	CMakeFiles/Recursividad2.dir/problema1.cpp.obj	3493509a3bce25a6
+611	846	6717269195485696	Recursividad2.exe	203ba2560ef136c2
+4	435	6717269543463581	CMakeFiles/Recursividad2.dir/problema1.cpp.obj	3493509a3bce25a6
+436	597	6717269545073557	Recursividad2.exe	203ba2560ef136c2
+3	364	6717412699627679	CMakeFiles/Recursividad2.dir/problema1.cpp.obj	3493509a3bce25a6
+364	534	6717412701256325	Recursividad2.exe	203ba2560ef136c2
